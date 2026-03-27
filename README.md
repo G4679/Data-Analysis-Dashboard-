@@ -113,7 +113,6 @@ Data Storytelling & Visualization Design: For building narrative-driven analytic
 
 # License 
 
-
 # Team Learnings & Outcomes
 Through this project, our team strengthened both technical and soft skills, including:
 # Technical Skills
