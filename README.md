@@ -20,6 +20,7 @@ There is limited awareness of calorie balance vs. physical activity.
 Lack of structured data makes it difficult to analyze the link between diet and disease risk.
 
 An interactive system is needed to analyze health, lifestyle, and nutrition data on a single platform.
+
 # Project Objective 
 
 To analyze variations in calorie intake and macronutrient distribution (fats, proteins, carbohydrates) across different meal types and dietary preferences.
@@ -31,9 +32,10 @@ To identify meaningful patterns and trends linking dietary habits with different
 To examine how breakfast choices impact overall daily nutrition balance, energy levels, and long-term health outcomes.
 
 To design and develop an interactive Power BI dashboard that integrates nutrition, lifestyle, and health data, transforming raw information into actionable insights for informed decision-making.
+
 # Dashboard Overview
 # 1. Dietary Preferences and Averages
-# Key insights
+# Key Insights
 The dataset contains 773K total calories, with carbohydrates contributing the highest share (54%), followed by protein (23%) and fat (23%), indicating a carb-dominant dietary pattern.
 
 Dinner contributes the highest calorie intake compared to breakfast, lunch, snacks, and sides, showing people consume most calories later in the day.
@@ -48,7 +50,7 @@ The nutrient scatter plot shows a strong positive relationship between calories 
 ![1000094585](https://github.com/user-attachments/assets/b0b7f3ec-8e72-4720-b94b-ce738d4435a0)
 
 # 2. Nutrients and Diseases 
-# Key insights
+# Key Insights
 The dataset includes 1,698 individuals with an average intake of 2K calories, categorized overall under moderate health risk.
 
 Most individuals fall under the normal BMI category (475 people), followed by overweight and obese groups.
@@ -65,7 +67,7 @@ Age trend analysis shows calorie intake gradually decreases after age 30.
 ![1000094583](https://github.com/user-attachments/assets/fd8c8595-1a5a-4a26-8bb6-f3b4afab29ed)
 
 # 3.Averages by Breakfast Suggestions
-# Key insights
+# Key Insights
 The average breakfast contains 314 calories, 48g carbohydrates, 22g protein, and 16g fat, indicating balanced macronutrient composition.
 
 Traditional breakfast items contribute the highest calorie percentage, followed by smoothies and bread-based meals.
@@ -82,7 +84,7 @@ Some breakfast suggestions (like oatmeal with nuts and berries) are linked with 
 
 
 # 4.Lifestyle & Nutrition Impact
-# Key insights
+# Key Insights
 The average calorie intake across individuals is 2.28K calories, with an average BMI of 26.05, indicating slightly overweight population trends.
 
 Only 17.08% of individuals meet target calorie intake, while 82.92% exceed recommended limits, suggesting widespread overconsumption.
@@ -132,7 +134,7 @@ Storytelling through data and professional presentation delivery.
 
 This internship-based project successfully bridged academic learning with real-world, industry-oriented analytics exposure, helping us understand how data can power decision-making in the media landscape.
 
-# Future improvement
+# Future Improvement
 Integrate real-time health and nutrition data from wearable devices or fitness tracking applications for dynamic analysis.
 
 Apply machine learning models to predict disease risks based on lifestyle habits, BMI trends, and dietary patterns.
