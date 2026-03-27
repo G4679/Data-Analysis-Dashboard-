@@ -4,6 +4,11 @@
 This project was completed as part of the Infosys Springboard Virtual Internship 6.0 program. Lifestyle, Nutrition & Health Risk Analysis is an interactive Power BI dashboard project designed to analyze how dietary habits, macronutrient intake, physical activity levels, BMI status, and lifestyle choices influence overall health outcomes and disease risk. By transforming structured nutrition and lifestyle datasets into intuitive visual dashboards, the project highlights meaningful relationships between calorie consumption, dietary preferences, activity patterns, and chronic health conditions.
 
 The project demonstrates how data analytics and visualization can support preventive healthcare awareness by converting complex nutritional data into clear and actionable insights. Through interactive exploration of BMI trends, disease associations, meal patterns, and macronutrient distribution, the dashboard enables users to better understand lifestyle-driven risk factors and make informed decisions that promote healthier living and long-term wellness.
+# Project Files 
+
+https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases
+https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data
+
 # Project Statement
 
 Modern lifestyles lead to unbalanced eating habits and high calorie intake, increasing obesity and chronic disease risk.
@@ -40,6 +45,7 @@ Categories such as condiments and vegetables contribute minimal calories, sugges
 
 The nutrient scatter plot shows a strong positive relationship between calories and protein, meaning higher-calorie foods tend to contain more protein.
 
+![1000094585](https://github.com/user-attachments/assets/b0b7f3ec-8e72-4720-b94b-ce738d4435a0)
 
 # 2. Nutrients and Diseases 
 # Key insights
@@ -56,6 +62,8 @@ Activity level significantly affects nutrient distribution across dietary prefer
 The Dietary Risk Index value (54.70K) suggests moderate nutritional risk across the population.
 Age trend analysis shows calorie intake gradually decreases after age 30.
 
+![1000094583](https://github.com/user-attachments/assets/fd8c8595-1a5a-4a26-8bb6-f3b4afab29ed)
+
 # 3.Averages by Breakfast Suggestions
 # Key insights
 The average breakfast contains 314 calories, 48g carbohydrates, 22g protein, and 16g fat, indicating balanced macronutrient composition.
@@ -69,6 +77,8 @@ Breakfast calorie intake remains consistent across all age groups, suggesting st
 Higher breakfast calorie intake correlates with higher BMI values in less active individuals.
 
 Some breakfast suggestions (like oatmeal with nuts and berries) are linked with lower disease association scores, indicating healthier options
+
+![1000094581](https://github.com/user-attachments/assets/f1d96034-acf4-4c69-8a08-93ffcae8bb25)
 
 
 # 4.Lifestyle & Nutrition Impact
@@ -88,6 +98,8 @@ Macronutrient distribution shows carbohydrates dominate across all dietary prefe
 A strong positive relationship exists between total calorie intake and protein consumption, confirming higher calorie diets include higher protein intake.
 
 Males consume slightly more calories than females, indicating gender-based dietary variation.
+
+![1000094579](https://github.com/user-attachments/assets/22e668f8-b079-423e-90e5-9cf4e9a075d4)
 
 
 # Tools & Technologies
