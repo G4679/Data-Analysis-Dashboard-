@@ -7,4 +7,14 @@ The project demonstrates how data analytics and visualization can support preven
 # Dashboard Overview
 # 1. Dietary Preferences and Averages
 # Key insights
+The dataset contains 773K total calories, with carbohydrates contributing the highest share (54%), followed by protein (23%) and fat (23%), indicating a carb-dominant dietary pattern.
+
+Dinner contributes the highest calorie intake compared to breakfast, lunch, snacks, and sides, showing people consume most calories later in the day.
+
+Meat-based protein sources contribute the largest calorie share among food categories.
+Items like chicken, beef, and burritos appear among the highest calorie food choices.
+
+Categories such as condiments and vegetables contribute minimal calories, suggesting low caloric impact but possible micronutrient importance.
+
+The nutrient scatter plot shows a strong positive relationship between calories and protein, meaning higher-calorie foods tend to contain more protein.
 
