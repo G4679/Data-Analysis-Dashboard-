@@ -6,8 +6,8 @@ This project was completed as part of the Infosys Springboard Virtual Internship
 The project demonstrates how data analytics and visualization can support preventive healthcare awareness by converting complex nutritional data into clear and actionable insights. Through interactive exploration of BMI trends, disease associations, meal patterns, and macronutrient distribution, the dashboard enables users to better understand lifestyle-driven risk factors and make informed decisions that promote healthier living and long-term wellness.
 # Project Files 
 
-https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases
-https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data
+* https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases
+* https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data
 
 # Project Statement
 
