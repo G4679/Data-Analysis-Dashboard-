@@ -145,3 +145,12 @@ Enhance the dashboard by adding advanced health scoring metrics like wellness in
 The Lifestyle, Nutrition & Health Risk Analysis project demonstrates how data visualization can transform complex nutritional and lifestyle datasets into meaningful health insights by analyzing relationships between calorie intake, macronutrient distribution, physical activity levels, BMI categories, and disease associations to highlight key factors influencing overall wellness and lifestyle-related health risks. Through interactive Power BI dashboards, the project helps users better understand dietary patterns and their impact on long-term health outcomes, supporting informed decision-making for healthier living while emphasizing the importance of balanced nutrition, active lifestyles, and the role of data-driven analytics in promoting preventive healthcare awareness and effective wellness monitoring.
 
 # Contributors 
+Ambashree 
+Ashwini Pathe
+Gorty Sree Naga Venkata Sravani 
+Hardik Pandey
+Gnana teja sri
+Manikanta Gedda
+Burgala Swathi
+D A AJAY
+Appapurapu S Naga Venkata Sasank
