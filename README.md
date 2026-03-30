@@ -107,7 +107,7 @@ This dashboard highlights how lifestyle factors influence calorie intake and BMI
 - Indicates slightly higher calorie intake among males  
 
 <p align="center">  
-  <img src="./images/Nutrients and Diseases.jpg" width="700"/>  
+  <img src="./images/Lifestyle and Nutrition Impact.jpg" width="700"/>  
 </p>  
 
 ---
