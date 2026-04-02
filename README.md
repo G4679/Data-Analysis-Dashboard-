@@ -53,7 +53,7 @@ This dashboard analyzes calorie distribution and macronutrient contribution acro
 - Demonstrates a strong positive correlation between calorie content and protein levels  
 
 <p align="center">  
-  <img src="./images/Dietary Preferences And Averages.jpg" width="700"/>  
+  <img src="./images/Dietary Preferences and Averages.png" width="700"/>  
 </p>  
 
 ---
@@ -71,7 +71,7 @@ This dashboard examines the relationship between nutrient intake, BMI categories
 - Calorie intake declines gradually after age 30  
 
 <p align="center">  
-  <img src="./images/Nutrients and Diseases.jpg" width="700"/>  
+  <img src="./images/Nutrients & Diseases.png" width="700"/>  
 </p>  
 
 ---
@@ -88,7 +88,7 @@ This dashboard evaluates the nutritional composition of breakfast choices and th
 - Links healthier breakfast options with lower disease risk  
 
 <p align="center">  
-  <img src="./images/Averages by Breakfast Suggestions.jpg" width="700"/>  
+  <img src="./images/Averages by Breakfast Suggestions.png" width="700"/>  
 </p>  
 
 ---
@@ -107,7 +107,7 @@ This dashboard highlights how lifestyle factors influence calorie intake and BMI
 - Indicates slightly higher calorie intake among males  
 
 <p align="center">  
-  <img src="./images/Lifestyle and Nutrition Impact.jpg" width="700"/>  
+  <img src="./images/Lifestyle and Nutrition Impact.png" width="700"/>  
 </p>  
 
 ---
