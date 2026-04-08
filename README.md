@@ -1,172 +1,168 @@
-# Food Trends: Understanding Customer Preferences in Food and Beverages  
+# 🍽️ Food Trends: Understanding Customer Preferences in F&B  
 
-A data-driven Power BI dashboard analyzing nutrition, lifestyle, and health risks to support better decision-making.
+<p align="center">
+  <b>A data-driven Power BI dashboard analyzing nutrition, lifestyle, and health risks</b><br>
+  Turning raw data into meaningful insights 📊
+</p>
 
----
-
-## Project Overview  
-
-This project was developed as part of the Infosys Springboard Virtual Internship 6.0 program. It analyzes dietary habits, macronutrient intake, physical activity levels, BMI status, and lifestyle patterns to understand their impact on health outcomes and disease risk.
-
-The project transforms structured nutrition and lifestyle datasets into interactive Power BI dashboards, highlighting relationships between calorie consumption, dietary preferences, activity levels, and chronic health conditions.
-
----
-
-## Project Files  
-
-- https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases  
-- https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/formula-fx.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" height="40"/>
+</p>
 
 ---
 
-## Problem Statement  
+## 📌 Table of Contents  
 
-- Modern lifestyles lead to unbalanced eating habits and excessive calorie intake  
-- Increasing obesity levels and rising chronic disease risks  
-- Limited understanding of macronutrient impact on BMI and health  
-- Lack of awareness of calorie intake versus physical activity balance  
-- Difficulty in analyzing diet–disease relationships due to unstructured data  
-- Need for an integrated system to analyze nutrition, lifestyle, and health data  
-
----
-
-## Project Objectives  
-
-- Analyze calorie intake and macronutrient distribution across meal types  
-- Evaluate the relationship between physical activity levels and BMI  
-- Identify patterns linking dietary habits with disease risk  
-- Examine the impact of breakfast on overall nutrition and health outcomes  
-- Develop an interactive Power BI dashboard for actionable insights  
+- [ Project Overview](#-project-overview)  
+- [ Dataset Sources](#-dataset-sources)  
+- [ Problem Statement](#-problem-statement)  
+- [ Project Objectives](#-project-objectives)  
+- [ Dashboard Insights](#-dashboard-insights)  
+- [ Tools & Technologies](#️-tools--technologies)  
+- [▶ How to Use](#️-how-to-use)  
+- [ Project Outcome](#-project-outcome)  
+- [ Learnings](#-learnings)  
+- [ Future Improvements](#-future-improvements)  
+- [ Conclusion](#-conclusion)  
+- [ Contributors](#-contributors)  
 
 ---
 
-## Dashboard Overview  
+## 🚀 Project Overview  
 
-### 1. Dietary Preferences and Averages  
-This dashboard analyzes calorie distribution and macronutrient contribution across meal types and food categories.
+This project was developed as part of the **Infosys Springboard Virtual Internship 6.0** program.  
 
-#### Key Findings  
-- Total calorie consumption is 773K, with carbohydrates contributing 54%, followed by protein (23%) and fat (23%)  
-- Dinner contributes the highest share of total calorie intake  
-- Meat-based food items contribute significantly to overall calorie consumption  
-- Vegetables and condiments contribute minimal calories but remain important for micronutrients  
-- Demonstrates a strong positive correlation between calorie content and protein levels  
+It analyzes:
+-  Dietary habits  
+-  Calorie intake  
+-  Macronutrients  
+-  Physical activity  
+-  BMI & lifestyle patterns  
 
-<p align="center">  
-  <img src="./images/Dietary Preferences and Averages.png" width="700"/>  
-</p>  
+➡️ The goal is to uncover relationships between **nutrition, lifestyle, and disease risk** using interactive dashboards.
 
 ---
 
-### 2. Nutrients and Diseases  
-This dashboard examines the relationship between nutrient intake, BMI categories, activity levels, and disease risk.
+## 📂 Dataset Sources  
 
-#### Key Findings  
-- Includes 1,698 individuals with an average intake of 2,000 kcal  
-- Majority fall under the normal BMI category  
-- Indicates increasing disease prevalence with higher BMI levels  
-- Moderately active individuals consume higher carbohydrates and protein  
-- Highlights the influence of activity level on nutrient consumption patterns  
-- Shows moderate overall nutritional risk based on Dietary Risk Index  
-- Calorie intake declines gradually after age 30  
-
-<p align="center">  
-  <img src="./images/Nutrients & Diseases.png" width="700"/>  
-</p>  
+- 📊 [Nutrition & Disease Dataset](https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases)  
+- 📊 [Daily Food & Nutrition Dataset](https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data)  
 
 ---
 
-### 3. Averages by Breakfast Suggestions  
-This dashboard evaluates the nutritional composition of breakfast choices and their impact on health.
+## ❗ Problem Statement  
 
-#### Key Findings  
-- Average breakfast contains 314 kcal with balanced macronutrients  
-- Traditional breakfast items contribute the highest calorie share  
-- Protein-rich breakfasts improve nutritional efficiency  
-- Breakfast calorie intake remains consistent across age groups  
-- Associates higher breakfast calorie intake with higher BMI in less active individuals  
-- Links healthier breakfast options with lower disease risk  
-
-<p align="center">  
-  <img src="./images/Averages by Breakfast Suggestions.png" width="700"/>  
-</p>  
+-  Unhealthy modern eating habits  
+-  Rising obesity and chronic diseases  
+-  Imbalance between calorie intake & activity  
+-  Lack of awareness about nutrition impact  
+-  Difficulty analyzing diet–disease relationships  
+-  Need for an integrated analytical system  
 
 ---
 
-### 4. Lifestyle & Nutrition Impact  
-This dashboard highlights how lifestyle factors influence calorie intake and BMI.
+## 🎯 Project Objectives  
 
-#### Key Findings  
-- Average calorie intake is 2.28K with an average BMI of 26.05  
-- Only 17.08% meet recommended calorie intake levels  
-- Extremely active individuals consume the highest calories  
-- Demonstrates decreasing BMI with increasing physical activity  
-- Omnivores consume higher protein compared to vegetarians and vegans  
-- Carbohydrates dominate across all dietary patterns  
-- Shows strong correlation between calorie intake and protein consumption  
-- Indicates slightly higher calorie intake among males  
-
-<p align="center">  
-  <img src="./images/Lifestyle and Nutrition Impact.png" width="700"/>  
-</p>  
+-  Analyze calorie & macronutrient distribution  
+-  Study activity vs BMI relationship  
+-  Identify diet–disease patterns  
+-  Evaluate breakfast impact  
+-  Develop interactive dashboards  
 
 ---
 
-## Tools and Technologies  
-
-- Power BI for dashboard creation and visualization  
-- Power Query Editor for data cleaning and transformation  
-- DAX for analytical calculations and metrics  
-- Data storytelling techniques for effective visualization  
+## 📊 Dashboard Insights  
 
 ---
 
-## Project Outcome  
+###  Dietary Preferences & Averages  
 
-- Delivered an interactive dashboard for nutrition and health analysis  
-- Identified key relationships between diet, activity, and disease risk  
-- Enabled data-driven insights for improved lifestyle decisions  
+- Total calories: **773K**  
+- Carbs: **54%**, Protein: **23%**, Fat: **23%**  
+-  Dinner contributes highest calories  
+-  Meat-based foods dominate intake  
+-  Vegetables contribute minimal calories  
+-  Strong correlation: Calories ↔ Protein  
 
----
-
-## Team Learnings and Outcomes  
-
-### Technical Skills  
-- Data modeling, transformation, and visualization  
-- Development of calculated metrics using DAX  
-- Dashboard design for non-technical audiences  
-
-### Soft Skills  
-- Problem-solving under time constraints  
-- Effective team collaboration  
-- Communication and presentation skills  
+<p align="center">
+  <img src="./images/dietry preferences.jpg" width="700"/>
+</p>
 
 ---
 
-## Future Improvements  
+###  Nutrients & Diseases  
 
-- Integrate real-time data from wearable devices  
-- Apply machine learning models for disease prediction  
-- Develop personalized diet recommendations  
-- Expand dataset across diverse populations  
-- Introduce advanced metrics such as wellness index and risk score  
+-  1,698 individuals analyzed  
+-  Majority: Normal BMI  
+-  Higher BMI → Higher disease risk  
+-  Active individuals consume more nutrients  
+-  Calories decline after age 30  
 
----
-
-## Conclusion  
-
-This project demonstrates the practical application of data analytics in preventive healthcare by converting complex nutrition and lifestyle data into meaningful insights. It enables data-driven decision-making and highlights the importance of balanced nutrition and active lifestyles in improving long-term health outcomes.
+<p align="center">
+  <img src="./images/nutrients and diseases.jpg" width="700"/>
+</p>
 
 ---
 
-## Contributors  
+###  Breakfast Analysis  
 
-- Ambashree  
-- Ajay D A  
-- Ashwini Pathe  
-- Appapurapu S Naga Venkata Sasank  
-- Burgala Swathi  
-- Gorty Sree Naga Venkata Sravani  
-- Gnana Teja Sri  
-- Hardik Pandey  
-- Manikanta Gedda  
+- Average breakfast: **314 kcal**  
+-  Traditional meals = highest calories  
+-  Protein-rich breakfasts are healthier  
+-  Higher calories → higher BMI (inactive individuals)  
+-  Healthy breakfast reduces disease risk  
+
+<p align="center">
+  <img src="./images/averages by breakfast suggestion.jpg" width="700"/>
+</p>
+
+---
+
+###  Lifestyle & Nutrition Impact  
+
+- Avg calories: **2.28K**  
+- Avg BMI: **26.05**  
+-  Only **17.08%** meet recommended intake  
+-  BMI decreases with activity  
+-  Omnivores consume more protein  
+-  Carbs dominate all diets  
+
+<p align="center">
+  <img src="./images/lifestyle and nutrition impact.jpg" width="700"/>
+</p>
+
+---
+
+## Tools & Technologies  
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/96/power-bi.png" title="Power BI"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" title="Excel"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/96/formula-fx.png" title="DAX"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" height="60" title="Infosys"/>
+
+</p>
+
+---
+
+## ▶️ How to Use  
+
+Follow these steps to explore and work with the project:
+
+---
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/G4679/Infosys_Springboard_Virtual_Internship-6.0_Batch-13_Group-1_Team_A.git
+
+##  License  
+
+This project is licensed under the **MIT License**.
+
