@@ -1,8 +1,8 @@
-# 🍽️ Food Trends: Understanding Customer Preferences in F&B  
+#  Food Trends: Understanding Customer Preferences in F&B  
 
 <p align="center">
   <b>A data-driven Power BI dashboard analyzing nutrition, lifestyle, and health risks</b><br>
-  Turning raw data into meaningful insights 📊
+  Turning raw data into meaningful insights 
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - [ Project Objectives](#-project-objectives)  
 - [ Dashboard Insights](#-dashboard-insights)  
 - [ Tools & Technologies](#️-tools--technologies)  
-- [▶ How to Use](#️-how-to-use)  
+- [ How to Use](#️-how-to-use)  
 - [ Project Outcome](#-project-outcome)  
 - [ Learnings](#-learnings)  
 - [ Future Improvements](#-future-improvements)  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Project Overview  
+##  Project Overview  
 
 This project was developed as part of the **Infosys Springboard Virtual Internship 6.0** program.  
 
@@ -42,18 +42,18 @@ It analyzes:
 -  Physical activity  
 -  BMI & lifestyle patterns  
 
-➡️ The goal is to uncover relationships between **nutrition, lifestyle, and disease risk** using interactive dashboards.
+The goal is to uncover relationships between **nutrition, lifestyle, and disease risk** using interactive dashboards.
 
 ---
 
 ## 📂 Dataset Sources  
 
-- 📊 [Nutrition & Disease Dataset](https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases)  
-- 📊 [Daily Food & Nutrition Dataset](https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data)  
+- [Nutrition & Disease Dataset](https://www.kaggle.com/datasets/bitanianielsen/nutrition-daily-meals-in-diseases-cases)  
+- [Daily Food & Nutrition Dataset](https://www.kaggle.com/datasets/adilshamim8/daily-food-and-nutrition-dataset/data)  
 
 ---
 
-## ❗ Problem Statement  
+##  Problem Statement  
 
 -  Unhealthy modern eating habits  
 -  Rising obesity and chronic diseases  
@@ -64,7 +64,7 @@ It analyzes:
 
 ---
 
-## 🎯 Project Objectives  
+##  Project Objectives  
 
 -  Analyze calorie & macronutrient distribution  
 -  Study activity vs BMI relationship  
@@ -74,7 +74,7 @@ It analyzes:
 
 ---
 
-## 📊 Dashboard Insights  
+##  Dashboard Insights  
 
 ---
 
@@ -88,7 +88,7 @@ It analyzes:
 -  Strong correlation: Calories ↔ Protein  
 
 <p align="center">
-  <img src="./images/dietry preferences.jpg" width="700"/>
+  <img src="./images/dietry preferences.png" width="700"/>
 </p>
 
 ---
@@ -166,3 +166,12 @@ git clone https://github.com/G4679/Infosys_Springboard_Virtual_Internship-6.0_Ba
 
 This project is licensed under the **MIT License**.
 
+
+## 👥 Contributors  
+
+- Ambashree  
+- Ajay D A  
+- Ashwini Pathe  
+- Dharani Alla  
+- Gnana Teja Sri  
+- Gorty Sree Naga Venkata Sravani  
